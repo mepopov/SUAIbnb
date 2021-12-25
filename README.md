@@ -43,5 +43,7 @@
 --------
 # **Схема базы данных**
 Схема таблицы авторизации
-![tevCxOcqgh0](https://user-images.githubusercontent.com/76684100/147377508-ed06b4af-911b-41fb-a95b-950cf0f6ded6.jpgСхема таблицы данных об объявлении
-![9OrlDBBp0h8](https://user-images.githubusercontent.com/76684100/147377506-a043eddd-f139-44d4-bfb2-2d49fa07d3b5.jpg)
+![tevCxOcqgh0](BUE6vkj11io.jpg)
+
+Схема таблицы данных об объявлении
+![9OrlDBBp0h8](ICW6f6Rd9r0.jpg)
