@@ -43,7 +43,7 @@
 --------
 # **Схема базы данных**
 Схема таблицы авторизации
-![tevCxOcqgh0](BUE6vkj11io.jpg)
+![tevCxOcqgh0](img/BUE6vkj11io.jpg)
 
 Схема таблицы данных об объявлении
-![9OrlDBBp0h8](ICW6f6Rd9r0.jpg)
+![9OrlDBBp0h8](img/ICW6f6Rd9r0.jpg)
