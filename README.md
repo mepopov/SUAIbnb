@@ -1,5 +1,3 @@
-# SUAIbnb
-New online service for booking accommodation!
 # **Coursework** #
 # **Информационная система - SUAIbnb**
 --------------------------
